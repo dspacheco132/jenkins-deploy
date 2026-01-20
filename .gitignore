@@ -1,0 +1,16 @@
+# Docker volumes and data
+jenkins_home/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
